@@ -140,6 +140,11 @@ header .logo {
 .cta img {
   display: flex;
   margin-top: 69px;
+  
+}
+
+.cta {
+  display: flex; 
 }
 
 .main-content {
