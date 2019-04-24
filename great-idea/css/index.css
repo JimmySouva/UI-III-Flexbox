@@ -122,10 +122,14 @@ header .logo {
   background: white;
   vertical-align: top;
   margin-top: 6px;
-  padding: 8px 44px;
+  padding: 10px 44px;
   font-size: 17px;
   border: 1px solid black;
   cursor: pointer;
+  position:absolute;
+    transition: .5s ease;
+    top: 60%;
+    left: 25%;
 }
 
 .cta .cta-text button:hover {
